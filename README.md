@@ -8,7 +8,7 @@
 
 ## Installation
 
-The preferred way to install this yii2-extension is through [composer](http://getcomposer.org/download/).
+The preferred way to install this is through [composer](http://getcomposer.org/download/).
 
 ```sh
 composer require "vxm/gateway-clients"
